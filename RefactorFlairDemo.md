@@ -30,8 +30,6 @@ He rebuilt workflows.
 
 He untangled observables.
 
-He dropped enableFormListeners() like a shoot promo.
-
 And he did it all with:
 
 - `untilDestroyed` finishing moves
@@ -39,11 +37,7 @@ And he did it all with:
 - DRY mapping patterns
 - and naming so clean it wore a Rolex.
 
----
-
-## 🎯 Demo Breakdown: The Situation
-
-![demo breakdown](./demobreakdown.png)
+## 🎯 The Situation
 
 ### RefactorFlair hit the mat knowing that
 
@@ -52,7 +46,7 @@ And he did it all with:
 - Form logic, UI state, and data mutations were tightly coupled
 - Developers risked breaking business logic when updating anything
 
-### 🔧 Problem
+### 🔧 The Real 'Problem'
 
 We had deeply conditional Angular component methods like initializeForm() and enableFormListeners() that:
 
@@ -60,9 +54,9 @@ We had deeply conditional Angular component methods like initializeForm() and en
 - Created side effects that made bugs harder to trace
 - Became hard to update or modify easily
 
----
+## 💪 The Assist
 
-## 💪 Demo Breakdown: The Assist
+![demo breakdown](./demobreakdown.png)
 
 ### ✅ **constructBallot**
 
@@ -86,6 +80,8 @@ We had deeply conditional Angular component methods like initializeForm() and en
 - Ensured consistent UX feedback using snackBars
 - Maintained form state clarity even on partial failures
 
+---
+
 #### 🧼 Results
 
 - Fewer side effects
@@ -93,8 +89,6 @@ We had deeply conditional Angular component methods like initializeForm() and en
 - Aligned behavior with form mode (isIso, councilMode, etc.)
 - Reusable logic across submit/save/patch methods
 - Cleaner developer experience with maintainable observables
-
----
 
 ## 🔄 Impact on Workflow
 
@@ -150,16 +144,25 @@ He’s walked through your Angular jungle, refactored it clean, left a trail of 
 - **Keep UI feedback sharp.**
   Users should always know what’s happening: success, fail, retry. `snackBar.open()` is your best tag-team partner.
 
----
-
 ## 🎤 WOOOO!
 
-Refactor Flair cleaned up the ring,
-put legacy bugs in a figure-four lock,
-and helped the team ship features without fear.
+- Refactor Flair cleaned up the ring,
+- put legacy bugs in a figure-four lock,
+- and helped the team ship features without fear.
 
 > **The form is pristine, the ballot flows crisp, and the commit history? Legendary.**
 
 **WOOOO!**
 
----
+🏁 Final Notes
+
+| Theme                    | Impact                                                              |
+| ------------------------ | ------------------------------------------------------------------- |
+| 🧠 Early returns         | Made all control flow **flatter and easier to scan**                |
+| 🔁 DRY principles        | Reduced copy-paste code with reusable helpers                       |
+| ✂️ Single Responsibility | Each method does **one thing well** now                             |
+| 🧪 Testability           | Logic is now easier to isolate and unit test                        |
+| 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
+| ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
+
+You just walked your codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
