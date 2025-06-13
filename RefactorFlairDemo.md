@@ -12,28 +12,32 @@ User enhancement request to present the ballot types, during pre-flight, to be l
 
 ### 💻💥 ENTER: REFACTOR FLAIR 💥💻
 
-The stylin’, profilin’,
-
-test-writin’, bug-fixin’,
-
+The stylin’, profilin’,\
+test-writin’, bug-fixin’,\
 pipe-chain-drainin’, snackBar-throwin’,
 
-✨ **Legend Killer of Legacy Code** ✨
+✨ **Dirty Code Killer of Legacy Code** ✨
 
 ![image of Refactor Flair](<./image%20(1).png>)
 
 ### Flair didn’t just suggest changes —
 
-He rebuilt workflows.
-
-He untangled observables.
-
+He rebuilt workflows.\
+He untangled observables.\
 And he did it all with:
 
 - `untilDestroyed` finishing moves
 - runtime-safe branching
 - DRY mapping patterns
 - and naming so clean it wore a Rolex.
+
+### 🧼 Catchphrases from the Coding Canvas
+
+> “No more `if`-pyramids!”\
+> “Flatten the flow!”\
+> “Helpers over hazards!”\
+> Ready to hit this monster with the ol’ Structure Suplex™. 🏋️‍♂️📦
+> **“WOOOOO!”**
 
 ## 🎯 The Situation
 
@@ -112,15 +116,6 @@ We had deeply conditional Angular component methods like initializeForm() and en
 - 🔍 **Readable, testable, maintainable code** — even your tag team partner will thank you
 - 🛠️ **Helper methods that break logic into power moves** — clear, sharp, and reusable
 
----
-
-### 🧼 Catchphrases from the Coding Canvas
-
-> “No more `if`-pyramids!”\
-> “Flatten the flow!”\
-> “Helpers over hazards!”\
-> **“WOOOOO!”**
-
 **And now?**\
 He’s strutted through to Angular ring, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
 
@@ -161,9 +156,12 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 | 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
 
-He just walked my codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
+### A senior dev that never gets tired — and always WOOOOs when you clean up a method
 
-| 3:16 Says...                     | In this ring                    | Foriegn Objects                   |
-| -------------------------------- | ------------------------------- | --------------------------------- |
-| Be Specfic                       | Context matters                 | Its just a tool.                  |
-| ![stone cold](./stoneColdGG.png) | ![codetakes](./restinpipes.png) | ![know your role](./deployMe.png) |
+🧠 + 🤖 = 🏆
+Refactor Flair. To be the cleanest, you gotta refactor the meanest.
+
+| 3:16 Says...                                                     | In this ring                                              | Foriegn Objects                          |
+| ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------- |
+| Be clear and specific (“Refactor this method to reduce nesting”) | Context matters _(e.g. models, services, component role)_ | Its just a tool. _Ask why, not just how_ |
+| ![stone cold](./stoneColdGG.png)                                 | ![codetakes](./restinpipes.png)                           | ![know your role](./deployMe.png)        |
