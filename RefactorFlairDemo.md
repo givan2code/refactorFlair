@@ -16,11 +16,11 @@ The stylin’, profilin’,\
 test-writin’, bug-fixin’,\
 pipe-chain-drainin’, snackBar-throwin’,
 
-✨ **Dirty Code Killer of Legacy Code** ✨
+✨ **Cleanest Player in the Development Game** ✨
 
 ![image of Refactor Flair](<./image%20(1).png>)
 
-### Flair didn’t just suggest changes —
+### Flair didn’t just suggest changes
 
 He rebuilt workflows.\
 He untangled observables.\
@@ -43,14 +43,14 @@ And he did it all with:
 
 ### RefactorFlair hit the mat knowing that
 
-- Legacy Angular code grew complex as new requirements piled on
-- Committee vs Council workflows required fine-grained control
-- Form logic, UI state, and data mutations were tightly coupled
-- Developers risked breaking business logic when updating anything
+- Legacy Angular code grew complex as new requirements piled on like a Battle Royal
+- Committee vs Council workflows required fine-grained tag teaming
+- Form logic, UI state, and data mutations were tightly coupled like a headlock
+- New develop risks breaking business logic when updating anything
 
-### 🔧 The Real 'Problem'
+### 🔧 The Real 'Problem' (Where Flair went wrong)
 
-We had deeply conditional Angular component methods like initializeForm() and enableFormListeners() that:
+We have a deeply conditional Angular component with methods like `initializeForm()` and `enableFormListeners()` that:
 
 - Mixed concerns (form structure, business logic, UI state)
 - Created side effects that made bugs harder to trace
@@ -135,15 +135,13 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 - **Keep UI feedback sharp.**
   Users should always know what’s happening: success, fail, retry. `snackBar.open()` is your best tag-team partner.
 
-## 🎤 WOOOO!
+## 🎤 WOOOO
 
 - Refactor Flair cleaned up the ring,
 - put legacy bugs in a figure-four lock,
 - and helped the team ship features without fear.
 
 > **The form is pristine, the ballot flows crisp, and the commit history? Legendary.**
-
-**WOOOO!**
 
 🏁 Final Notes
 
@@ -155,8 +153,6 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 | 🧪 Testability           | Logic is now easier to isolate and unit test                        |
 | 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
-
-### A senior dev that never gets tired — and always WOOOOs when you clean up a method
 
 🧠 + 🤖 = 🏆
 Refactor Flair. To be the cleanest, you gotta refactor the meanest.
