@@ -124,7 +124,7 @@ We had deeply conditional Angular component methods like initializeForm() and en
 > **“WOOOOO!”**
 
 **And now?**\
-He’s walked through your Angular jungle, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
+He’s strutted through to Angular ring, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
 
 ## 💼 Pro Tips from the Nature Bot
 
