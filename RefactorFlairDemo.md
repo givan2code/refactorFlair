@@ -110,14 +110,14 @@ We have a deeply conditional Angular component with methods like `initializeForm
 
 ### 🏆 What Flair Brought to the Ring
 
-- 💅 **Cleans up messy logic** like it’s spilled ring gear
-- ♻️ **DRYs out repeated code** so your app doesn’t gas out in round 2
-- 🎯 **Early returns, extracted helpers, and crisp naming** that hits harder than a steel chair
-- 🔍 **Readable, testable, maintainable code** — even your tag team partner will thank you
+- 💅 **Cleaned up messy logic** like it was spilled ring gear
+- ♻️ **DRYed out repeated code** so our app doesn’t gas out in an Ironman match
+- 🎯 **Early returns, extracted helpers, and crisp naming** that hit harder than a steel chair
+- 🔍 **Readable, testable, maintainable code** — future tag team partners will thank you
 - 🛠️ **Helper methods that break logic into power moves** — clear, sharp, and reusable
 
 **And now?**\
-He’s strutted through to Angular ring, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
+He strutted to Angular ring, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
 
 ## 💼 Pro Tips from the Nature Bot
 
@@ -137,9 +137,9 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 
 ## 🎤 WOOOO
 
-- Refactor Flair cleaned up the ring,
+- Refactor Flair cleaned up the ring, but needed to tag out at times
 - put legacy bugs in a figure-four lock,
-- and helped the team ship features without fear.
+- and helped ship the update without fear.
 
 > **The form is pristine, the ballot flows crisp, and the commit history? Legendary.**
 
@@ -154,7 +154,7 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 | 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
 
-| 3:16 Says...                                                     | In this ring                                              | Foriegn Objects                          |
+| 3:16 Says...                                                     | In this ring                                              | Foreign Objects                          |
 | ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------- |
 | Be clear and specific (“Refactor this method to reduce nesting”) | Context matters _(e.g. models, services, component role)_ | Its just a tool. _Ask why, not just how_ |
 | ![stone cold](./stoneColdGG.png)                                 | ![codetakes](./restinpipes.png)                           | ![know your role](./deployMe.png)        |
