@@ -61,7 +61,7 @@ And he did it all with:
 
 ## 🔄 Impact on Workflow
 
-![Impact](./impact.png)
+![Impact](./secondImpact.png)
 
 - 🔧 **Simplified maintenance**
   Shared helpers like `buildParticipant` and `patchParticipants` mean future updates don’t require deep context.
@@ -79,7 +79,7 @@ And he did it all with:
 
 ## 💼 Pro Tips from the Nature Bot
 
-![pro tips](./protipe.png)
+![pro tips](./secondProTips.png)
 
 - **Don't refactor forms until logic is locked.**
   What looks like duplicate code might be handling subtly different business flows. Confirm behavior before DRYing.
