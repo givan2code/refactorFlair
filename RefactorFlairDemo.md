@@ -164,3 +164,7 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
 
 He just walked my codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
+
+| 3:16 Says...                     | l                               |
+| -------------------------------- | ------------------------------- |
+| ![stone cold](./stoneColdGG.png) | ![codetakes](./restinpipes.png) |
