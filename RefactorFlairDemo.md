@@ -56,7 +56,7 @@ We had deeply conditional Angular component methods like initializeForm() and en
 
 ## 💪 The Assist
 
-![demo breakdown](./demobreakdown.png)
+![demo breakdown](./secondAssist.png)
 
 ### ✅ **constructBallot**
 
@@ -126,11 +126,9 @@ We had deeply conditional Angular component methods like initializeForm() and en
 **And now?**\
 He’s walked through your Angular jungle, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
 
----
-
 ## 💼 Pro Tips from the Nature Bot
 
-![pro tips](./secondProTips.png)
+![pro tips](./thirdProTips.png)
 
 - **Don't refactor forms until logic is locked.**
   What looks like duplicate code might be handling subtly different business flows. Confirm behavior before DRYing.
@@ -165,4 +163,4 @@ He’s walked through your Angular jungle, refactored it clean, left a trail of 
 | 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
 
-You just walked your codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
+He just walked my codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
