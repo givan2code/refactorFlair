@@ -2,8 +2,6 @@
 
 User enhancement request to present the ballot types, during pre-flight, to be listed in alphabetical order. So what better reason to experiment with AI-assisted refactoring. I asked the AI to name itself, with a wrestling theme. I was not disappointed.
 
----
-
 ## 🕶️ Refactor Flair: Entrance Promo
 
 > In a world of tangled conditionals, duplicated logic, and code smell strong enough to crash a linter...
@@ -165,6 +163,7 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 
 He just walked my codebase from a solid midcarder to a main-event superstar. Flair’s proud, and the crowd’s chanting your name. 💯🔥
 
-| 3:16 Says...                     | l                               |
-| -------------------------------- | ------------------------------- |
-| ![stone cold](./stoneColdGG.png) | ![codetakes](./restinpipes.png) |
+| 3:16 Says...                     | In this ring                    | Foriegn Objects                   |
+| -------------------------------- | ------------------------------- | --------------------------------- |
+| Be Specfic                       | Context matters                 | Its just a tool.                  |
+| ![stone cold](./stoneColdGG.png) | ![codetakes](./restinpipes.png) | ![know your role](./deployMe.png) |
