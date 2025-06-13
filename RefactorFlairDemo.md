@@ -36,8 +36,8 @@ And he did it all with:
 > “No more `if`-pyramids!”\
 > “Flatten the flow!”\
 > “Helpers over hazards!”\
+> To be the cleanest, you gotta refactor the meanest.
 > Ready to hit this monster with the ol’ Structure Suplex™. 🏋️‍♂️📦
-> **“WOOOOO!”**
 
 ## 🎯 The Situation
 
@@ -143,7 +143,7 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 
 > **The form is pristine, the ballot flows crisp, and the commit history? Legendary.**
 
-🏁 Final Notes
+🏁 What Moves Did We Learn
 
 | Theme                    | Impact                                                              |
 | ------------------------ | ------------------------------------------------------------------- |
@@ -154,10 +154,11 @@ He’s strutted through to Angular ring, refactored it clean, left a trail of `�
 | 💅 Naming consistency    | `confirmed`, `participants`, `res`, etc. are **clean and readable** |
 | ✅ Ready for scale       | You now have building blocks for even more ballot logic and reuse   |
 
-🧠 + 🤖 = 🏆
-Refactor Flair. To be the cleanest, you gotta refactor the meanest.
-
 | 3:16 Says...                                                     | In this ring                                              | Foriegn Objects                          |
 | ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------- |
 | Be clear and specific (“Refactor this method to reduce nesting”) | Context matters _(e.g. models, services, component role)_ | Its just a tool. _Ask why, not just how_ |
 | ![stone cold](./stoneColdGG.png)                                 | ![codetakes](./restinpipes.png)                           | ![know your role](./deployMe.png)        |
+
+## Whats Next?
+
+![mystery](./UnitTestWarrior2.png)
