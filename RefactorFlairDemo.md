@@ -41,10 +41,10 @@ And he did it all with:
 
 ## 🎯 The Situation
 
-### RefactorFlair hit the mat knowing that
+### RefactorFlair hit the ring not knowing that
 
 - Legacy Angular code grew complex as new requirements piled on like a Battle Royal
-- Committee vs Council workflows required fine-grained tag teaming
+- Committee vs Council workflows would require fine-grained tag teaming
 - Form logic, UI state, and data mutations were tightly coupled like a headlock
 - New develop risks breaking business logic when updating anything
 
