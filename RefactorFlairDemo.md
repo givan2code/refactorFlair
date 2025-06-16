@@ -27,16 +27,14 @@ He untangled observables.\
 And he did it all with:
 
 - `untilDestroyed` finishing moves
-- runtime-safe branching
 - DRY mapping patterns
 - and naming so clean it wore a Rolex.
 
 ### 🧼 Catchphrases from the Coding Canvas
 
-> “No more `if`-pyramids!”\
 > “Flatten the flow!”\
 > “Helpers over hazards!”\
-> To be the cleanest, you gotta refactor the meanest.
+> To be the cleanest, you gotta refactor the meanest.\
 > Ready to hit this monster with the ol’ Structure Suplex™. 🏋️‍♂️📦
 
 ## 🎯 The Situation
@@ -48,13 +46,13 @@ And he did it all with:
 - Form logic, UI state, and data mutations were tightly coupled like a headlock
 - New develop risks breaking business logic when updating anything
 
-### 🔧 The Real 'Problem' (Where Flair went wrong)
+### 🔧 The Real 'Problem' (And where Flair went wrong)
 
 We have a deeply conditional Angular component with methods like `initializeForm()` and `enableFormListeners()` that:
 
 - Mixed concerns (form structure, business logic, UI state)
 - Created side effects that made bugs harder to trace
-- Became hard to update or modify easily
+- Became harder to update or modify easily
 
 ## 💪 The Assist
 
@@ -111,13 +109,10 @@ We have a deeply conditional Angular component with methods like `initializeForm
 ### 🏆 What Flair Brought to the Ring
 
 - 💅 **Cleaned up messy logic** like it was spilled ring gear
-- ♻️ **DRYed out repeated code** so our app doesn’t gas out in an Ironman match
-- 🎯 **Early returns, extracted helpers, and crisp naming** that hit harder than a steel chair
-- 🔍 **Readable, testable, maintainable code** — future tag team partners will thank you
+- ♻️ **DRYed out repeated code** so SW2 doesn’t gas out in an Ironman match
+- 🎯 **Early returns, extracted helpers, and crisp naming** that hit harder than a steel chair to the back
+- 🔍 **Readable, testable, maintainable code** — future tag team partners will be thankful
 - 🛠️ **Helper methods that break logic into power moves** — clear, sharp, and reusable
-
-**And now?**\
-He strutted to Angular ring, refactored it clean, left a trail of `✅` commits, and tossed those bugs over the top rope.
 
 ## 💼 Pro Tips from the Nature Bot
 
@@ -138,10 +133,8 @@ He strutted to Angular ring, refactored it clean, left a trail of `✅` commits,
 ## 🎤 WOOOO
 
 - Refactor Flair cleaned up the ring, but needed to tag out at times
-- put legacy bugs in a figure-four lock,
-- and helped ship the update without fear.
-
-> **The form is pristine, the ballot flows crisp, and the commit history? Legendary.**
+- put legacy bugs in a figure-four lock
+- and helped ship the update without fear
 
 🏁 What Moves Did We Learn
 
